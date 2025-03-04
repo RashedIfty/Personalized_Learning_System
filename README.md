@@ -20,6 +20,11 @@ Authentication using JWT ensures that:
 
 ---
 
+## Workflow Diagram
+![Untitled Diagram](https://github.com/user-attachments/assets/4415013b-3896-48cd-8430-c5412a0b36aa)
+
+---
+
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -252,16 +257,8 @@ D:.
 
 ---
 
-## Future Improvements
-- **Authentication & Security:**  
-  Enhance token management, add refresh tokens, and integrate OAuth providers.
-- **Database Scalability:**  
-  Migrate from SQLite to PostgreSQL or MySQL for production.
-- **Enhanced PDF Processing:**  
-  Integrate OCR for scanned documents.
-- **Analytics & Logging:**  
-  Implement better logging, monitoring, and analytics of user queries.
-- **UI/Frontend Integration:**  
-  Develop a frontend to interact with the API more seamlessly.
+## Screenshots
+![2025-03-04 20_48_03-Settings](https://github.com/user-attachments/assets/cc1221e3-9bec-405e-98f1-5c7d30cc77c9)
+![2025-03-04 20_48_38-Settings](https://github.com/user-attachments/assets/879f3d39-b47f-4711-bd50-6201b10b12bc)
 
 ---
